@@ -30,3 +30,16 @@ namespace WebUygulama.Mvc.Controllers
         }
     }
 }
+
+/*
+
+Index Privacy kısmı uygulama acıldıgında sayfalara denk geliyor 
+View kısmı Views içindeki kısım
+Index yazıyorsa Views içinde de Home içinde Index.cshtml olması lazım 
+Baslıgından birbirini buluyor
+
+Pricavy de öyle
+
+Views içinde Home içinde Pricavy.cshtml
+
+*/

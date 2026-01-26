@@ -25,3 +25,18 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+
+/*
+ 
+ burasý ana alan mvc si otomatik olarak olusturuluyor buna pipeline deniyor
+ MapController kýsmý uygulama acýldýgýnda acýlan kýsým 
+ url calýsma mantýgý 
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+controller olacak 
+action olacak
+
+controller dedigin Controller klasöründeki HomeController.cs
+action dediði Controller klasöründeki Index metotu
+
+ */

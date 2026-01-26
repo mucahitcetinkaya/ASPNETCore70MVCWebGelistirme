@@ -35,3 +35,22 @@
     }
   }
 }
+
+
+/*
+  
+url e burdan karar veriliyor development mi olacak production mı olsun http mi baslasın https mi vs
+
+    appsettings.json içindeki 
+
+  appsettings.Development.json development ayarlarını içerir
+
+    bunun aynısının Production olanı da oluyor ileri de 
+
+  appsettings.Production.json
+
+  launchSettings.json da da 
+
+    Development kısımlarını Production olarak yazarsan buraya bakar 
+
+*/
