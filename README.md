@@ -1,0 +1,2 @@
+# ASPNETCore70MVCWebGelistirme
+
