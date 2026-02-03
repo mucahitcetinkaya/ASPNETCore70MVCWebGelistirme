@@ -140,3 +140,22 @@ olusturdu sorun yaratmadý
 
 
 */
+
+/*
+ 
+ VÝDEO 15. Entity Framework Kullanarak Koddan Tablo Olusturmak
+
+entityfw kullanarak olusturdugumuz vt içine entityfw kullanarak tablo olusturmayý ogrenecegýz
+
+codefirst ile iþlemler yapýyoruz yaný kod tan tablo uretme 
+
+birde DBFirst var oda tablodan kod üretmeye giriyor 
+
+VTKitapSatis adýnda bir vt olustu ama içinde herhangi bir tablo yok  
+
+UygulamaDbContext e gidelim
+
+
+
+
+ */
